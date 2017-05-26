@@ -16,4 +16,4 @@ python GAN_Lasagne.py
   can be found in Generated Images.
   Image caption tells the number of iteration in thousands
   
-  ![Alt text](https://raw.githubusercontent.com/sverma88/Generative-Adversarial-Models-in-Lasagne-and-Theano/Generate_Images/020.png)
+  ![Alt text](https://raw.githubusercontent.com/sverma88/Generative-Adversarial-Models-in-Lasagne-and-Theano/Generated_Images/020.png)
