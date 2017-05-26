@@ -12,6 +12,7 @@ python GAN_Lasagne.py
 
 # Very basic network for generator and as well as for the discriminator 
 
-# Few images from the experiment are also uploaded
-
+# Few generated images from the experiment
+  can be found in Generated Images.
+  Image caption tells the number of iteration in thousands
 
